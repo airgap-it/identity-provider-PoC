@@ -4,7 +4,7 @@ import Home from './components/Home.vue'
 export default (store) => {
   const routes = [
     {
-      path: '/',
+      path: '*',
       name: 'home',
       component: Home,
       props: route => ({ query: route.query })
