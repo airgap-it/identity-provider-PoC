@@ -86,8 +86,8 @@
 import Aepp from "@aeternity/aepp-sdk/es/ae/aepp";
 import ContractCompilerAPI from "@aeternity/aepp-sdk/es/contract/compiler";
 
-const NODE_URL = "https://sdk-testnet.aepps.com";
-const NODE_INTERNAL_URL = "https://sdk-testnet.aepps.com";
+const NODE_URL = "https://roma-net.mdw.aepps.com";
+const NODE_INTERNAL_URL = "https://roma-net.mdw.aepps.com";
 const COMPILER_URL = "https://compiler.aepps.com";
 
 export default {
